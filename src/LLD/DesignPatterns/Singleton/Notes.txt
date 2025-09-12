@@ -1,0 +1,11 @@
+Singleton Class:
+
+The class objective is to create only 1 object.
+
+Different ways of creating Singleton class.
+1. Eager
+2. Lazy
+3. Synchronization block
+4. Double check block
+5. Bill Pugh solution
+6. Enum Singleton
