@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7959326f-d855-42ec-9b46-63e04ba2193e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/DoubleLocking/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Eager/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Eager/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Lazy/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/SynchronizedMethod/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/BillPughSolution/DBConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/DoubleLocking/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/DoubleLocking/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Eager/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/SingletonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,11 +54,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "actions.on.save"
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LLD.DesignPatterns.Singleton.BillPughSolution" />
       <recent name="LLD.DesignPatterns.Singleton.DoubleLocking" />
       <recent name="LLD.DesignPatterns.Singleton.SynchronizedMethod" />
       <recent name="LLD.DesignPatterns.Singleton.Lazy" />
@@ -68,5 +75,20 @@
       <updated>1757618135502</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

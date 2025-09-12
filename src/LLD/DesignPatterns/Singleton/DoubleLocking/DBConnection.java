@@ -1,7 +1,10 @@
 package LLD.DesignPatterns.Singleton.DoubleLocking;
 
 public class DBConnection {
-    private static DBConnection dbConnection;
+
+    // When we make a variable volatile, any READ/WRITE operation will
+    // be happening from main memory instead of L1 Cache (For a multicore CPU).
+    private static volatile DBConnection dbConnection;
 
     private DBConnection() {
 

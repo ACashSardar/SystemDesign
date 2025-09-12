@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=SqDbZOjW1uM&t=19s
+
 Singleton Class:
 
 The class objective is to create only 1 object.
