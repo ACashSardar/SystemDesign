@@ -1,4 +1,4 @@
-package LLD.DesignPatterns.Singleton.BillPughSolution;
+package LLD.DesignPatterns.Creational.Singleton.BillPughSolution;
 
 public class DBConnection {
     private DBConnection() {

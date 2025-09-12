@@ -1,4 +1,4 @@
-package LLD.DesignPatterns.Singleton.DoubleLocking;
+package LLD.DesignPatterns.Creational.Singleton.DoubleLocking;
 
 public class DBConnection {
 

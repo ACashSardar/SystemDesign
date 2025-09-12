@@ -1,7 +1,7 @@
-package LLD.DesignPatterns.Singleton;
+package LLD.DesignPatterns.Creational.Singleton;
 
 
-import LLD.DesignPatterns.Singleton.DoubleLocking.DBConnection;
+import LLD.DesignPatterns.Creational.Singleton.DoubleLocking.DBConnection;
 
 public class SingletonDemo {
     public static void main(String[] args) {
