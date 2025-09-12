@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7959326f-d855-42ec-9b46-63e04ba2193e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Bugatti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Lamborghini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/LuxuryVehicleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Maruti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/OrdinaryVehicleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Tata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Prototype/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Prototype/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Factory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Factory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Factory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Factory/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Factory/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Factory/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/BillPughSolution/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/BillPughSolution/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/DoubleLocking/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/DoubleLocking/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Eager/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/Eager/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Lazy/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/Lazy/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/SingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Singleton/SynchronizedMethod/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/SynchronizedMethod/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/AbstractFactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/LuxuryVehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/LuxuryVehicleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/OrdinaryVehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/OrdinaryVehicleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/VehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/VehicleAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +55,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akash\Documents\SystemDesign\src\LLD\DesignPatterns\Creational" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LLD.DesignPatterns.Singleton.BillPughSolution" />
       <recent name="LLD.DesignPatterns.Singleton.DoubleLocking" />

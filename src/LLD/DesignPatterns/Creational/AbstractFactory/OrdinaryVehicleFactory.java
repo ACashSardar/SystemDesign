@@ -1,6 +1,6 @@
 package LLD.DesignPatterns.Creational.AbstractFactory;
 
-public class OrdinaryVehicleFactory implements VehicleFactory {
+public class OrdinaryVehicleFactory implements VehicleAbstractFactory {
     @Override
     public Vehicle getVehicle(String name) {
         if (name.equals("Tata")) {

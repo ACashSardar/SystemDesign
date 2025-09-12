@@ -1,7 +1,7 @@
 package LLD.DesignPatterns.Creational.AbstractFactory;
 
-public class FactoryProducer {
-    public VehicleFactory getFactory(String type) {
+public class AbstractFactoryProducer {
+    public VehicleAbstractFactory getFactory(String type) {
         if (type.equalsIgnoreCase("Luxury")) {
             return new LuxuryVehicleFactory();
         } else if (type.equalsIgnoreCase("Ordinary")) {

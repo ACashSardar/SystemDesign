@@ -1,6 +1,6 @@
 package LLD.DesignPatterns.Creational.AbstractFactory;
 
-public interface VehicleFactory {
+public interface VehicleAbstractFactory {
     // VehicleFactory has a vehicle
     Vehicle getVehicle(String name);
 }
