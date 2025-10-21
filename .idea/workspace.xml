@@ -5,16 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7959326f-d855-42ec-9b46-63e04ba2193e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Prototype/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/EmailAlertObserverImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/IPhoneObservableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/MobileAlertObserverImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/NotificationAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/StocksObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/DriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/GoodsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/NormalDriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/OffRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/SportsDriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/SportsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/CheeseTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/Farmhouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/MushroomTopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/Plain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/ToppingDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/AbstractFactoryProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/LuxuryVehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/LuxuryVehicleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/OrdinaryVehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/OrdinaryVehicleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/VehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/AbstractFactory/VehicleAbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Singleton/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Creational/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
