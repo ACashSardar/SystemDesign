@@ -5,27 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7959326f-d855-42ec-9b46-63e04ba2193e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/EmailAlertObserverImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/IPhoneObservableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/MobileAlertObserverImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/NotificationAlertObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Observer/StocksObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/DriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/GoodsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/NormalDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/OffRoadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/SportsDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/SportsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Strategy/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/BasePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/CheeseTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/Farmhouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/MushroomTopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/Plain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Structural/Decorator/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/DebugLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/ErrorLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/InfoLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/LogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/GenreSongIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/HotSong2025Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/NormalSongIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/SongIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/SongPlaylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/GreenSignal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/RedSignal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/TrafficLightContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/TrafficLightState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/YellowSignal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/AdultPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/BillingVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/ChildPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/DiagnosisVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/SeniorPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/SOLID/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/SOLID/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp/CompareObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp/GraphDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp/StkQueLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp/StringDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,14 +72,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Akash\Documents\SystemDesign\src\LLD\DesignPatterns\Creational" />
