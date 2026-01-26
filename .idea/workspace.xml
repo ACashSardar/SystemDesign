@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7959326f-d855-42ec-9b46-63e04ba2193e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/DebugLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/ErrorLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/InfoLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/ChainOfResponsibility/LogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/GenreSongIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/HotSong2025Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/NormalSongIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/Playlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/SongIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/SongPlaylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/GreenSignal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/RedSignal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/TrafficLightContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/TrafficLightState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/State/YellowSignal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/AdultPatient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/BillingVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/ChildPatient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/DiagnosisVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/SeniorPatient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/SOLID/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/SOLID/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temp/CompareObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temp/GraphDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temp/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temp/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temp/StkQueLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temp/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7959326f-d855-42ec-9b46-63e04ba2193e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -72,19 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Akash\Documents\SystemDesign\src\LLD\DesignPatterns\Creational" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LLD.Applications.TicTacToe" />
       <recent name="LLD.DesignPatterns.Singleton.BillPughSolution" />
       <recent name="LLD.DesignPatterns.Singleton.DoubleLocking" />
       <recent name="LLD.DesignPatterns.Singleton.SynchronizedMethod" />
