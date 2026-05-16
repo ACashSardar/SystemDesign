@@ -68,6 +68,7 @@ public class TicTacToeGame {
             playingBoard.printBoard();
             currPlayer.makeMove(playingBoard);
             if (hasCurrentPlayerWon(currPlayer)) {
+                playingBoard.printBoard();
                 return currPlayer.name;
             }
             playerQueue.add(currPlayer);
