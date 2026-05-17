@@ -12,10 +12,11 @@ public class HotSong2025Iterator implements SongIterator {
 
     @Override
     public boolean hasNext() {
-        while (index < songs.size()) {
-            if (songs.get(index).isHot2025)
+        int i = index;
+        while (i < songs.size()) {
+            if (songs.get(i).isHot2025)
                 return true;
-            index++;
+            i++;
         }
         return false;
     }

@@ -5,19 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7959326f-d855-42ec-9b46-63e04ba2193e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/ThreadCreation/ThreadCallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/ThreadCreation/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/ThreadPoolExecutors/Method_invokeAll_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/ThreadPoolExecutors/ScheduledThreadPoolExecutorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/ThreadPoolExecutors/SynchronizedMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/ThreadPoolExecutors/ThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/ThreadPoolExecutors/VolatileKeyWordDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/WaitNotifyDemo/ProducerConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/WaitNotifyDemo/SimpleWaitNotifyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/WaitNotifyDemo/SleepDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD/Multithreading/WaitNotifyDemo/WaiterChefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/AIMovementStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/BonusFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/FoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/HumanMovementStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/MovementStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/NormalFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD/Applications/SnakeAndFoodGame/SnakeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD/Applications/TicTacToe/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/Applications/TicTacToe/TicTacToeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/HotSong2025Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD/DesignPatterns/Behavioral/Iterator/HotSong2025Iterator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
